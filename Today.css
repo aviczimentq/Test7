@@ -1,0 +1,9 @@
+table, td {
+    background-color: LawnGreen;
+    border-collapse : collapse;
+    border-style    : solid;
+    border-width    : 2px;
+    padding   : 5px;
+    text-align: center;
+}
+
